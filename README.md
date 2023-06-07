@@ -1,2 +1,2 @@
 # c_2nd_edition
-Example exercises from The C Programming Language book by Brian Kerninghan & Dennis Ritchie.
+Example exercises from [The C Programming Language](https://books.google.com.mx/books/about/The_C_Programming_Language.html?id=FGkPBQAAQBAJ&redir_esc=y) by Brian Kerninghan & Dennis Ritchie.
